@@ -1,5 +1,5 @@
 # XcodeCommentDesign
-![image](https://github.com/devtofu/XcodeCommentDesign/blob/master/images/screenshot.jpg?raw=true)
+![image](https://github.com/devtofu/XcodeCommentDesign/blob/master/images/screenshot.png?raw=true)
 
 Xcode 注释设计。
 # Overview
