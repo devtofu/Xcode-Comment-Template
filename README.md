@@ -30,5 +30,14 @@ Xcode 注释设计。
 	- `Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Templates/File Templates/Source/`
 	- 复制 `Cocoa Touch Class.xctemplate` 模版，重命名 `Tofu Cocoa Touch Class.xctemplate`
 	- 进入 `Tofu Cocoa Touch Class.xctemplate`,里面是 Swift 和 OC 的类，打开文件将上面设计好的注释粘贴到头部即可
-		![preview]()
+		![step3](https://github.com/devtofu/XcodeCommentDesign/blob/master/images/step3.png?raw=true)
+		![step4](https://github.com/devtofu/XcodeCommentDesign/blob/master/images/step4.png?raw=true)
 	- 这里制作的是文件模版，制作工程模版步骤相同
+
+- 接下来新建个文件，选择刚刚创建的模版，到此就全部完成了。
+
+	![step5](https://github.com/devtofu/XcodeCommentDesign/blob/master/images/step5.png?raw=true)
+
+
+# License
+MIT
