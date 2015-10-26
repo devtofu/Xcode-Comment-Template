@@ -26,6 +26,8 @@ Xcode 注释设计。
 - 这里只展示第三种文字图案方式，在 **Banner Text** 中输入想要的英文，点击 **Start** 就出现了你想要的图案了。
 
 ### 二、制作模版
+制作时使用的是 Xcode 7.0，其他版本路径可能会有所不同。
+
 - 依次进入路径
 	- `Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Templates/File Templates/Source/`
 	- 复制 `Cocoa Touch Class.xctemplate` 模版，重命名 `Tofu Cocoa Touch Class.xctemplate`
@@ -34,7 +36,7 @@ Xcode 注释设计。
 		![step4](https://github.com/devtofu/XcodeCommentDesign/blob/master/images/step4.png?raw=true)
 	- 这里制作的是文件模版，制作工程模版步骤相同
 
-- 接下来新建个文件，选择刚刚创建的模版，到此就全部完成了。
+- 接下来打开Xcode,选择 `File -> New -> File` 或使用快捷键 `⌘ + N`，选择刚刚创建的 Source 模版，到此就全部完成了。
 
 	![step5](https://github.com/devtofu/XcodeCommentDesign/blob/master/images/step5.png?raw=true)
 
